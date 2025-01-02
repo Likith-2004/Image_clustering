@@ -117,7 +117,8 @@ Thank you for contributing! Your efforts make this project better for everyone. 
 
 ## 📧 Contact
 For questions or feedback, please reach out to:
-- **Your Name**: [likithvk2004@gmail.com](mailto:likithvk2004@gmail.com)
+- **Your Name**: *Likith V K*
+- **E-mail**: [likithvk2004@gmail.com](mailto:likithvk2004@gmail.com)
 - **GitHub**: [Likith-2004](https://github.com/Likith-2004)
 
 ---
