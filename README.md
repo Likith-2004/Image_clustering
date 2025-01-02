@@ -12,7 +12,7 @@ This project is a hands-on approach to clustering-based segmentation for process
 4. [🚀 Usage](#usage)
 5. [📂 Project Structure](#project-structure)
 6. [🤝 Contributing](#contributing)
-7. [📜 License](#license)
+7. [📜 Acknowledgment](#Acknowlegement)
 
 ---
 
@@ -75,3 +75,6 @@ README.md                                      # Project documentation
 Contributions are welcome! Feel free to fork the repository, make enhancements, and submit a pull request. Please ensure your contributions adhere to the existing code style and add relevant documentation.
 
 Happy coding! 💻
+
+## Acknowlegement
+#### 
